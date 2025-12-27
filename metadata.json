@@ -1,0 +1,8 @@
+{
+  "name": "tester8282",
+  "version": "1.0",
+  "author": "tester8282 dev",
+  "description": "Cool utility pack",
+  "entry": "tester8282.js",
+  "tags": ["utility", "tools"]
+}
